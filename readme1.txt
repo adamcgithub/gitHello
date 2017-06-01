@@ -3,4 +3,4 @@ Added footnote
 New changes since last production release
 fixed bug
 testing revert - new one
-new 2
+new 1
